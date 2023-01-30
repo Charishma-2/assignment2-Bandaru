@@ -8,9 +8,7 @@
     1. Sachin Tendulkar
     2. Virat Kohli
     3. Rohit Sharma
-
-----------
-
+-----------
 * Srilanka National Cricket Team
 * Pakistan National Cricket Team
 * West Indies Cricket team
