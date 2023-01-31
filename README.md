@@ -23,3 +23,12 @@
 | Chile  | Patagonia, the Atacama Desert and Easter Island | 10 |
 |  Norway | fjords are gorgeous and Tromsø in the arctic circle is a good way to experience the midnight sun | 12 |
 
+----------------
+### Pithy Quotes
+
+> "There is no sunrise so beautiful that it is worth waking me up to see it. " *—Mindy Kaling*
+
+
+> "Do not take life too seriously. You will never get out of it alive. " *—Elbert Hubbard*
+
+
