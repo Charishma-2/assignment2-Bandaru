@@ -13,7 +13,7 @@
 * Pakistan National Cricket Team
 * West Indies Cricket team
 
-link to about me [AboutMe](https://github.com/Charishma-2/assignment2-Bandaru/blob/main/AboutMe.md)
+[AboutMe](https://github.com/Charishma-2/assignment2-Bandaru/blob/main/AboutMe.md)
 
 -----------------
 | Name of the Country | Reason | Number Of Days|
@@ -51,3 +51,4 @@ link to about me [AboutMe](https://github.com/Charishma-2/assignment2-Bandaru/bl
 </html>
 
 ```
+Lets go to the code snippet displayed above <https://css-tricks.com/snippets/html/xhtml-1-0-strict-page-structure/>
