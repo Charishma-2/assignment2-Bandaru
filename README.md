@@ -21,6 +21,8 @@
 Link to the About Me [AboutMe](https://github.com/Charishma-2/assignment2-Bandaru/blob/main/AboutMe.md)
 
 -----------------
+### Countries
+
 | Name of the Country | Reason | Number Of Days|
 | ----------| ------| ------|
 |The Netherlands |The Keukenhof Gardens and the tulip fields beautiful place to visit throughout the country in the spring| 7 |
