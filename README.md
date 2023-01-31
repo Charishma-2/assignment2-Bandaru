@@ -5,8 +5,6 @@
 
 -------------------------
  ### Indian Cricket team
- ------------
-
     1. Sachin Tendulkar
     2. Virat Kohli
     3. Rohit Sharma
