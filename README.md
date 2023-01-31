@@ -34,7 +34,7 @@
 ---------------------
 ### Code Fencing
 
-> [Styling the html input to have round border](https://stackoverflow.com/questions/75291538/styling-the-html-input-to-have-round-border)
+> Styling the html input to have round border (https://stackoverflow.com/questions/75291538/styling-the-html-input-to-have-round-border)
 
 ```
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
