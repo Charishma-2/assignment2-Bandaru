@@ -15,3 +15,11 @@
 
 [AboutMe](https://github.com/Charishma-2/assignment2-Bandaru/blob/main/AboutMe.md)
 
+-----------------
+| Name of the Country | Reason | Number Of Days|
+| ----------| ------| ------|
+|The Netherlands |The Keukenhof Gardens and the tulip fields beautiful place to visit throughout the country in the spring| 7 |
+| Brazil | The Amazon Rainforest and the Rio Negro | 5 |
+| Chile  | Patagonia, the Atacama Desert and Easter Island | 10 |
+|  Norway | fjords are gorgeous and Tromsø in the arctic circle is a good way to experience the midnight sun | 12 |
+
