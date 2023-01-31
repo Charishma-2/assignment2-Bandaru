@@ -13,7 +13,7 @@
 * Pakistan National Cricket Team
 * West Indies Cricket team
 
-[AboutMe](https://github.com/Charishma-2/assignment2-Bandaru/blob/main/AboutMe.md)
+link to about me [AboutMe](https://github.com/Charishma-2/assignment2-Bandaru/blob/main/AboutMe.md)
 
 -----------------
 | Name of the Country | Reason | Number Of Days|
